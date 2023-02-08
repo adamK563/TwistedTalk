@@ -12,7 +12,7 @@ A simple chat application in Python using the Twisted framework and the TCP prot
 1. Clone the repository:
 
     ```
-    git clone ...
+    git clone https://github.com/adamK563/TwistedTalk
     ```
 
 2. Install the required dependencies:
